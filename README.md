@@ -36,7 +36,8 @@
 - There doesn't seem to be enough qualified retirement-ready employees in the departments to mentor the next generation of P-H employees. Taking a look at the table below, which shows the count of employees by title eligible for mentorship, the number of those retiring versus the number eligible for mentoring are not comparable.
 
 ![Mentoring_Eligibility_By_Title](https://github.com/mavalenz/Pewlett-Hackard-Analysis/blob/main/Mentoring_Eligibility_By_Title.PNG)
-**For example, *senior engineers* have the most employees retiring however, they fall to the lower end of amount of employees eligible for mentoring.
+
+**For example, *senior engineers* have the most employees retiring however, they fall to the lower end of amount of employees eligible for mentoring.**
 
 - In addition to the additional above query table, another query that would help potential expand the number of eligible mentoring employees would be to look at the number of roles each of the retiring employees had. The number of roles/titles may indicate their level of experience at the firm and would have a lot to of experience and knowledge to offer to the next generation of PH employees. See the query below that will help pull this data.
 
